@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nztm2000_coords_header_long">NZTM2000 Coordinates</string>
+    <string name="lat_long_header_long">Latitude / Longitude</string>
+    <string name="lat_long_header_short">Lat/Long</string>
+    <string name="location_checkbox_text">Use Current Location</string>
+    
+    <string name="app_name">NZTopodroid</string>
+
+<string name="recalc_button_string">Recalculate</string>
+</resources>
